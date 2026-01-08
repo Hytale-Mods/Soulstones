@@ -1,0 +1,23 @@
+{
+  "Input": [
+    {
+      "ItemId": "Deco_Bone_Pile",
+      "Quantity": 15
+    }
+  ],
+  "PrimaryOutput": {
+    "ItemId": "Ingredient_Void_Essence",
+    "Quantity": 1
+  },
+  "BenchRequirement": [
+    {
+      "Type": "Crafting",
+      "Categories": [
+        "Darkhax_Soulstones_Crafting"
+      ],
+      "Id": "Darkhax_Soulstones_Bench",
+      "RequiredTierLevel": 1
+    }
+  ],
+  "Seconds": 5
+}

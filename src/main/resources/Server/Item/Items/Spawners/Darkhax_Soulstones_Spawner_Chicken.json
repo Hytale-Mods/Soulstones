@@ -1,0 +1,43 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Darkhax_Soulstones_Spawner_Chicken.name",
+    "Description": "server.items.Darkhax_Soulstones_Spawner_Chicken.description"
+  },
+  "BlockType": {
+    "Material": "Solid",
+    "DrawType": "Model",
+    "Opacity": "Transparent",
+    "CustomModel": "Blocks/Spawners/Darkhax_Soulstones_Spawner.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Spawners/Darkhax_Soulstones_Spawner_Chicken.png"
+      }
+    ],
+    "HitboxType": "Darkhax_Soulstones_Spawner",
+    "VariantRotation": "NESW",
+    "CustomModelAnimation": "Blocks/Spawners/Darkhax_Soulstones_Spawner_Idle_Smooth.blockyanim",
+    "Looping": true,
+    "Support": {
+      "Down": [
+        {
+          "FaceType": "Full"
+        }
+      ]
+    }
+  },
+  "Icon": "Icons/ItemsGenerated/Darkhax_Soulstones_Spawner_Chicken.png",
+  "IconProperties": {
+    "Scale": 1.1,
+    "Rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Translation": [
+      0.0,
+      -13.0
+    ]
+  },
+  "PlayerAnimationsId": "Block",
+  "MaxStack": 1
+}

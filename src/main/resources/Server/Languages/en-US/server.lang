@@ -1,0 +1,8 @@
+items.Darkhax_Soulstones_Bench.name = Soulsmith's Bench
+items.Darkhax_Soulstones_Bench.description = Used to create soulstones and mob spawners. \n\ \n\
+<i>A Soulsmith's workbench does not judge the souls you lay before it, for it has seen countless more. The true exchange lies not in the essence shaped, but in what you are desperate enough to give.</i>
+
+items.Darkhax_Soulstones_Soulstone.name = Soulstone
+items.Darkhax_Soulstones_Soulstone.description = A volatile fusion of light and dark, trapped within crystalline equilibrium. Its balance is perfect, its peace temporary.
+
+items.Darkhax_Soulstones_Spawner_Chicken.name=Chicken Spawner

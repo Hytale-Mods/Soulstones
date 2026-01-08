@@ -1,0 +1,23 @@
+{
+  "Input": [
+    {
+      "ItemId": "Ingredient_Crystal_Purple",
+      "Quantity": 5
+    }
+  ],
+  "PrimaryOutput": {
+    "ItemId": "Ingredient_Void_Essence",
+    "Quantity": 1
+  },
+  "BenchRequirement": [
+    {
+      "Type": "Crafting",
+      "Categories": [
+        "Darkhax_Soulstones_Crystals"
+      ],
+      "Id": "Darkhax_Soulstones_Bench",
+      "RequiredTierLevel": 1
+    }
+  ],
+  "Seconds": 5
+}

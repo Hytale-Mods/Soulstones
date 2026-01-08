@@ -1,0 +1,31 @@
+{
+  "Input": [
+    {
+      "ItemId": "Rock_Ice",
+      "Quantity": 5
+    },
+    {
+      "ItemId": "Ore_Cobalt",
+      "Quantity": 1
+    },
+    {
+      "ItemId": "Plant_Flower_Bushy_White",
+      "Quantity": 1
+    }
+  ],
+  "PrimaryOutput": {
+    "ItemId": "Ingredient_Ice_Essence",
+    "Quantity": 1
+  },
+  "BenchRequirement": [
+    {
+      "Type": "Crafting",
+      "Categories": [
+        "Darkhax_Soulstones_Crafting"
+      ],
+      "Id": "Darkhax_Soulstones_Bench",
+      "RequiredTierLevel": 1
+    }
+  ],
+  "Seconds": 5
+}

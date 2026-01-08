@@ -1,0 +1,31 @@
+{
+  "Input": [
+    {
+      "ItemId": "Soil_Sand",
+      "Quantity": 5
+    },
+    {
+      "ItemId": "Plant_Flower_Water_Green",
+      "Quantity": 1
+    },
+    {
+      "ItemId": "Soil_Clay",
+      "Quantity": 1
+    }
+  ],
+  "PrimaryOutput": {
+    "ItemId": "Ingredient_Water_Essence",
+    "Quantity": 1
+  },
+  "BenchRequirement": [
+    {
+      "Type": "Crafting",
+      "Categories": [
+        "Darkhax_Soulstones_Crafting"
+      ],
+      "Id": "Darkhax_Soulstones_Bench",
+      "RequiredTierLevel": 1
+    }
+  ],
+  "Seconds": 5
+}

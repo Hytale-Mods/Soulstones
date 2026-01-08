@@ -1,0 +1,31 @@
+{
+  "Input": [
+    {
+      "ItemId": "Soil_Dirt",
+      "Quantity": 5
+    },
+    {
+      "ItemId": "Ingredient_Fibre",
+      "Quantity": 10
+    },
+    {
+      "ItemId": "Plant_Fruit_Berries_Red",
+      "Quantity": 1
+    }
+  ],
+  "PrimaryOutput": {
+    "ItemId": "Ingredient_Life_Essence",
+    "Quantity": 1
+  },
+  "BenchRequirement": [
+    {
+      "Type": "Crafting",
+      "Categories": [
+        "Darkhax_Soulstones_Crafting"
+      ],
+      "Id": "Darkhax_Soulstones_Bench",
+      "RequiredTierLevel": 1
+    }
+  ],
+  "Seconds": 5
+}

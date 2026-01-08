@@ -1,0 +1,26 @@
+{
+  "Input": [
+    {
+      "ItemId": "Food_Chicken_Raw",
+      "Quantity": 25
+    },
+    {
+      "ItemId": "Darkhax_Soulstones_Soulstone"
+    }
+  ],
+  "PrimaryOutput": {
+    "ItemId": "Darkhax_Soulstones_Spawner_Chicken",
+    "Quantity": 1
+  },
+  "BenchRequirement": [
+    {
+      "Type": "Crafting",
+      "Categories": [
+        "Darkhax_Soulstones_Spawners"
+      ],
+      "Id": "Darkhax_Soulstones_Bench",
+      "RequiredTierLevel": 1
+    }
+  ],
+  "Seconds": 5
+}

@@ -1,0 +1,21 @@
+{
+    "Group": "Darkhax",
+    "Name": "Soulstones",
+    "Version": "2026.1.8-68702",
+    "Description": "Harvest the power of souls.",
+    "Authors": [
+        {
+            "Name": "Darkhax"
+        }
+    ],
+    "Website": "https://www.curseforge.com/hytale/mods/soulstones",
+    "ServerVersion": "*",
+    "Dependencies": {
+        
+    },
+    "OptionalDependencies": {
+        
+    },
+    "DisabledByDefault": false,
+    "IncludesAssetPack": true
+}

@@ -1,0 +1,27 @@
+{
+  "Input": [
+    {
+      "ItemId": "Ingredient_Charcoal",
+      "Quantity": 15
+    },
+    {
+      "ItemId": "Ingredient_Powder_Boom",
+      "Quantity": 1
+    }
+  ],
+  "PrimaryOutput": {
+    "ItemId": "Ingredient_Fire_Essence",
+    "Quantity": 1
+  },
+  "BenchRequirement": [
+    {
+      "Type": "Crafting",
+      "Categories": [
+        "Darkhax_Soulstones_Crafting"
+      ],
+      "Id": "Darkhax_Soulstones_Bench",
+      "RequiredTierLevel": 1
+    }
+  ],
+  "Seconds": 5
+}

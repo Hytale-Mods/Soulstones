@@ -1,0 +1,27 @@
+{
+  "Input": [
+    {
+      "ItemId": "Ingredient_Bar_Copper",
+      "Quantity": 10
+    },
+    {
+      "ItemId": "Ingredient_Bar_Gold",
+      "Quantity": 5
+    }
+  ],
+  "PrimaryOutput": {
+    "ItemId": "Ingredient_Lightning_Essence",
+    "Quantity": 1
+  },
+  "BenchRequirement": [
+    {
+      "Type": "Crafting",
+      "Categories": [
+        "Darkhax_Soulstones_Crafting"
+      ],
+      "Id": "Darkhax_Soulstones_Bench",
+      "RequiredTierLevel": 1
+    }
+  ],
+  "Seconds": 5
+}
