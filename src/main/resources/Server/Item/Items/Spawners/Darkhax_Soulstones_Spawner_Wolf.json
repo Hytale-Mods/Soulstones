@@ -1,7 +1,7 @@
 {
   "TranslationProperties": {
-    "Name": "server.items.Darkhax_Soulstones_Spawner_Chicken.name",
-    "Description": "server.items.Darkhax_Soulstones_Spawner_Chicken.description"
+    "Name": "server.items.Darkhax_Soulstones_Spawner_Wolf.name",
+    "Description": "server.items.Darkhax_Soulstones_Spawner_Wolf.description"
   },
   "BlockType": {
     "Material": "Solid",
@@ -10,7 +10,7 @@
     "CustomModel": "Blocks/Spawners/Darkhax_Soulstones_Spawner.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Spawners/Darkhax_Soulstones_Spawner_Chicken.png"
+        "Texture": "Blocks/Spawners/Darkhax_Soulstones_Spawner_Wolf.png"
       }
     ],
     "HitboxType": "Darkhax_Soulstones_Spawner",
@@ -28,7 +28,7 @@
       "Id": "DarkhaxSpellbookItemGenerator",
       "Output": {
         "Type": "DropList",
-        "DropList": "Drop_chicken"
+        "DropList": "Drop_Wolf_Black"
       },
       "ExportFaces": [
         "Down"
@@ -40,19 +40,19 @@
       "ExportOnce": true
     }
   },
-  "Icon": "Icons/ItemsGenerated/Darkhax_Soulstones_Spawner_Chicken.png",
   "IconProperties": {
     "Scale": 1.1,
     "Rotation": [
-      0.0,
-      0.0,
-      0.0
+      0,
+      0,
+      0
     ],
     "Translation": [
-      0.0,
-      -13.0
+      0,
+      -13
     ]
   },
   "PlayerAnimationsId": "Block",
-  "MaxStack": 1
+  "MaxStack": 1,
+  "Icon": "Icons/ItemsGenerated/Darkhax_Soulstones_Spawner_Wolf.png"
 }

@@ -1,0 +1,38 @@
+{
+  "Input": [
+    {
+      "ItemId": "Food_Wildmeat_Raw",
+      "Quantity": 100
+    },
+    {
+      "ItemId": "Ingredient_Hide_Heavy",
+      "Quantity": 25
+    },
+    {
+      "Quantity": 20,
+      "ResourceTypeId": "Rock"
+    },
+    {
+      "ItemId": "Ingredient_Bar_Iron",
+      "Quantity": 10
+    },
+    {
+      "ItemId": "Darkhax_Soulstones_Soulstone"
+    }
+  ],
+  "PrimaryOutput": {
+    "ItemId": "Darkhax_Soulstones_Spawner_Bear",
+    "Quantity": 1
+  },
+  "BenchRequirement": [
+    {
+      "Type": "Crafting",
+      "Categories": [
+        "Darkhax_Soulstones_Spawners"
+      ],
+      "Id": "Darkhax_Soulstones_Bench",
+      "RequiredTierLevel": 1
+    }
+  ],
+  "Seconds": 5
+}
